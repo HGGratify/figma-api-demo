@@ -39,7 +39,7 @@ like:
 node main.js VGULlnz44R0Ooe4FZKDxlhh4 <API_TOKEN_HERE>
 ```
 
-where `<API_TOKEN_HERE>` would be repaced with your developer token.
+where `<API_TOKEN_HERE>` would be replaced with your developer token.
 
 You can also change the .env file and insert your token there
 
